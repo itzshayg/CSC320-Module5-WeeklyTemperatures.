@@ -1,1 +1,1 @@
-# CSC320-Module5-WeeklyTemperatures.
+# CSC320-Module5-WeeklyTemperatures
